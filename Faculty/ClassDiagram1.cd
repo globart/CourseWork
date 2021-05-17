@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FacultyLib.Faculty">
+    <Position X="1.25" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AUAgAAAAAAAABAAABAAAQAAAEEAgIAAAAAJAQgAAUAA=</HashCode>
+      <FileName>Faculty.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Teachers" />
+      <Field Name="Table" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="Specialities" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="FacultyLib.Flow">
+    <Position X="6" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>TAAAAAAAAAAAAAAAAIAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Flow.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="groups" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="FacultyLib.Group">
+    <Position X="8.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAIAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAgIAQAAAAAA=</HashCode>
+      <FileName>Group.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FacultyLib.Speciality">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAABAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Speciality.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FacultyLib.Timetable">
+    <Position X="4" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAACAAAQAAAAAAAAAAAQAAAAgAAAAA=</HashCode>
+      <FileName>Timetable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="FacultyLib.Teacher">
+    <Position X="4" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAIAAAAQAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Faculty.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="FacultyLib.Lessons">
+    <Position X="8.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAQEAAAAAgAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Timetable.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="Classes" />
+    </ShowAsCollectionAssociation>
+  </Struct>
+  <Struct Name="FacultyLib.Class">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAEAAAAAAAAAAAIAAgAAAAQAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Timetable.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

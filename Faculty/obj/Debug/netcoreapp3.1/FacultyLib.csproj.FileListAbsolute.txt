@@ -1,0 +1,9 @@
+D:\GLOBART\UNI\Year 1\2nd semester\PROGRAMS\Faculty\Faculty\bin\Debug\netcoreapp3.1\FacultyLib.deps.json
+D:\GLOBART\UNI\Year 1\2nd semester\PROGRAMS\Faculty\Faculty\bin\Debug\netcoreapp3.1\FacultyLib.dll
+D:\GLOBART\UNI\Year 1\2nd semester\PROGRAMS\Faculty\Faculty\bin\Debug\netcoreapp3.1\FacultyLib.pdb
+D:\GLOBART\UNI\Year 1\2nd semester\PROGRAMS\Faculty\Faculty\obj\Debug\netcoreapp3.1\FacultyLib.AssemblyInfoInputs.cache
+D:\GLOBART\UNI\Year 1\2nd semester\PROGRAMS\Faculty\Faculty\obj\Debug\netcoreapp3.1\FacultyLib.AssemblyInfo.cs
+D:\GLOBART\UNI\Year 1\2nd semester\PROGRAMS\Faculty\Faculty\obj\Debug\netcoreapp3.1\FacultyLib.csproj.CoreCompileInputs.cache
+D:\GLOBART\UNI\Year 1\2nd semester\PROGRAMS\Faculty\Faculty\obj\Debug\netcoreapp3.1\FacultyLib.dll
+D:\GLOBART\UNI\Year 1\2nd semester\PROGRAMS\Faculty\Faculty\obj\Debug\netcoreapp3.1\FacultyLib.pdb
+D:\GLOBART\UNI\Year 1\2nd semester\PROGRAMS\Faculty\Faculty\obj\Debug\netcoreapp3.1\FacultyLib.csprojAssemblyReference.cache

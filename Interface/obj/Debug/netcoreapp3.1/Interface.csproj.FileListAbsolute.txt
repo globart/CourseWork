@@ -1,0 +1,16 @@
+D:\GLOBART\UNI\Year 1\2nd semester\PROGRAMS\Faculty\Interface\obj\Debug\netcoreapp3.1\Interface.csprojAssemblyReference.cache
+D:\GLOBART\UNI\Year 1\2nd semester\PROGRAMS\Faculty\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfoInputs.cache
+D:\GLOBART\UNI\Year 1\2nd semester\PROGRAMS\Faculty\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfo.cs
+D:\GLOBART\UNI\Year 1\2nd semester\PROGRAMS\Faculty\Interface\obj\Debug\netcoreapp3.1\Interface.csproj.CoreCompileInputs.cache
+D:\GLOBART\UNI\Year 1\2nd semester\PROGRAMS\Faculty\Interface\bin\Debug\netcoreapp3.1\Interface.exe
+D:\GLOBART\UNI\Year 1\2nd semester\PROGRAMS\Faculty\Interface\bin\Debug\netcoreapp3.1\Interface.deps.json
+D:\GLOBART\UNI\Year 1\2nd semester\PROGRAMS\Faculty\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.json
+D:\GLOBART\UNI\Year 1\2nd semester\PROGRAMS\Faculty\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.dev.json
+D:\GLOBART\UNI\Year 1\2nd semester\PROGRAMS\Faculty\Interface\bin\Debug\netcoreapp3.1\Interface.dll
+D:\GLOBART\UNI\Year 1\2nd semester\PROGRAMS\Faculty\Interface\bin\Debug\netcoreapp3.1\Interface.pdb
+D:\GLOBART\UNI\Year 1\2nd semester\PROGRAMS\Faculty\Interface\obj\Debug\netcoreapp3.1\Interface.csproj.CopyComplete
+D:\GLOBART\UNI\Year 1\2nd semester\PROGRAMS\Faculty\Interface\obj\Debug\netcoreapp3.1\Interface.dll
+D:\GLOBART\UNI\Year 1\2nd semester\PROGRAMS\Faculty\Interface\obj\Debug\netcoreapp3.1\Interface.pdb
+D:\GLOBART\UNI\Year 1\2nd semester\PROGRAMS\Faculty\Interface\obj\Debug\netcoreapp3.1\Interface.genruntimeconfig.cache
+D:\GLOBART\UNI\Year 1\2nd semester\PROGRAMS\Faculty\Interface\bin\Debug\netcoreapp3.1\FacultyLib.dll
+D:\GLOBART\UNI\Year 1\2nd semester\PROGRAMS\Faculty\Interface\bin\Debug\netcoreapp3.1\FacultyLib.pdb
